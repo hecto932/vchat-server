@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/hecto932/vchat-server",
   "dependencies": {
-    "vchat-client": "git://github.com/hecto932/vchat-client.git",
     "async": "^1.5.0",
     "body": "^5.1.0",
     "concat-stream": "^1.5.1",
@@ -27,6 +26,7 @@
     "level-ttl": "^3.1.0",
     "socket.io": "^1.3.7",
     "st": "^1.1.0",
-    "uuid": "^2.0.1"
+    "uuid": "^2.0.1",
+    "vchat-client": "github:hecto932/vchat-client"
   }
 }
