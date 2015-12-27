@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hecto932/vchat-server.git"
+    "url": "https://github.com/hecto932/vchat-server.git"
   },
   "author": "Hector Flores <hecto932@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hecto932/vchat-server/issues"
   },
-  "homepage": "https://github.com/hecto932/vchat-server#readme",
+  "homepage": "https://github.com/hecto932/vchat-server",
   "dependencies": {
-    "vchat-client": "https://github.com/hecto932/vchat-client.git",
+    "vchat-client": "git://github.com/hecto932/vchat-client.git",
     "async": "^1.5.0",
     "body": "^5.1.0",
     "concat-stream": "^1.5.1",
